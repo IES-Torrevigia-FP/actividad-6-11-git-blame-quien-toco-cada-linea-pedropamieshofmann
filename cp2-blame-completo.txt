@@ -1,0 +1,8 @@
+Línea restar:
+abc123 Modifica restar (BUG intencionado)
+
+Línea TODO:
+def456 Añade TODO para función dividir
+
+Explicación:
+git blame muestra qué commit y autor modificó cada línea del archivo.

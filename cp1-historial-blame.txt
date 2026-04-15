@@ -1,0 +1,7 @@
+pedro@Gitofi:~/Documents/dev/actividad-6-11-git-blame-quien-toco-cada-linea-pedropamieshofmann$ git log --oneline
+f01222b (HEAD -> main) Añade TODO para función dividir
+7721269 Modifica restar (BUG intencionado)
+9deedc7 Añade función multiplicar
+a353807 Añade funciones sumar y restar
+f3e75a0 (origin/main, origin/HEAD) add deadline
+1628555 Initial commit

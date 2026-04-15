@@ -1,0 +1,5 @@
+Salida:
+(líneas de restar)
+
+Explicación:
+Permite centrarse solo en una parte del código sin ruido del resto del archivo.

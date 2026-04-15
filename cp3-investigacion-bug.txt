@@ -1,0 +1,8 @@
+Línea:
+abc123 return a - b - 1; // BUG
+
+Comando:
+git show abc123
+
+Explicación:
+El bug se introdujo en ese commit al modificar la función restar.
